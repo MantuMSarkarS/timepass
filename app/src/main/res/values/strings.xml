@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TimePass</string>
+    <string name="title_activity_exo_player">ExoPlayer</string>
+    <string name="title_play_default_url">Play Default Video</string>
+    <string name="title_play_url">Play Video by Url</string>
+    <string name="error_message_url_not_valid">This Url is not valid. Please enter a valid Url</string>
+    <string name="timepass">TimePass</string>
+    <string name="email">Email*</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_password">Change Password</string>
+    <string name="confirm_password">Confirm Password*</string>
+    <string name="password">Password*</string>
+    <string name="facebook_app_id">2726394257602045</string>
+    <string name="fb_login_protocol_scheme">fb2726394257602045</string>
+    <string name="facebook">Facebook</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="profile">Profile</string>
+    <string name="videos">Videos</string>
+    <string name="image">Image</string>
+    <string name="share">Share</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+</resources>
